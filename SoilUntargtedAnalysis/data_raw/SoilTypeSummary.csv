@@ -1,0 +1,6 @@
+Soil Series,treatment,soil_type,Soil_Texture_Class,p_Sand,P_Silt,p_Clay,p_TC,p_TOC,p_N,pH,Bulk_Density,Specific_sa,CEC
+Grenville ,Dgs,gs,Fine sandy loam,63.51059212,26.28263653,10.20677135,2.5,2.55,0.21,6.27,1.337712574,4.03915,13
+Rideau ,Drc,rc,clay loam,50.38858895,19.90535226,29.70605879,1.64,1.58,0.13,6.566666667,1.279109046,16.30845,19
+Granby,Dfo,fo,Fine sandy loam,72.764,17.488,9.748,1.19,1.17,0.1,6.206666667,1.470406344,3.2966,7.63
+Kaolin (KGa-1b),B,kc,Clay,0,0,100,0.01,0.02,0.02,NA,NA,10.05,2
+Texas Montmorillonite (STx-1),C,mc,Clay,0,0,100,0.01,0.01,0.04,NA,NA,83.79,84.4

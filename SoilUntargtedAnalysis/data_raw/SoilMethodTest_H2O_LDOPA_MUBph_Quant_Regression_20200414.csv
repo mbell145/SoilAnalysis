@@ -1,0 +1,5 @@
+Quant Method,Regression,m,yint,r2
+LDOPA_198mz,linear,6.94E+08,0,0.9815
+LDOPA_280nm,linear,3.17E+06,0,0.9988
+MUBph_257mz,linear,1.40E+09,0,0.978
+MUBph_315nm,linear,1.01E+07,0,0.9984
